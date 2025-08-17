@@ -1,5 +1,5 @@
 ---
-title: ようこそ「わんでし座」へ
+title: わんでし座
 layout: default
 ---
 ようこそ「わんでし座」へ
