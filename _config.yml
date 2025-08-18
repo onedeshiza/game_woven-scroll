@@ -2,7 +2,7 @@
 layout: default
 title: わんでし座
 ---
-<link rel="stylesheet" href="/game_woven-scroll/assets/css/custom.css">
+<link rel="stylesheet" href="asset/css/custom.css">
 title: わんでし座
 markdown: kramdown
 theme: jekyll-theme-slate
