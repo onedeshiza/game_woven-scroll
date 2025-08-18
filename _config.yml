@@ -1,3 +1,6 @@
 title: わんでし座
-theme: jekyll-theme-slate
+markdown: kramdown
+theme: minima
+include:
+  - assets/css
 lang: ja
