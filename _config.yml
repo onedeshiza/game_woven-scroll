@@ -1,7 +1,3 @@
----
-layout: default
-title: わんでし座
----
 markdown: kramdown
 theme: jekyll-theme-slate
 lang: ja
