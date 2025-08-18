@@ -1,3 +1,1 @@
-# テストページ
-
-![わんでし座ロゴ](asset/img/1dLza_w1.png)
+![わんでし座ロゴ](asset/img/1dLza_b1.png)
