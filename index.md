@@ -1,12 +1,12 @@
-おいでませ、此方は
 ![わんでし座ロゴ](asset/img/1dLza_b1.png)
+
+おいでませ、此方「わんでし座」
 フリーゲームの製作所にて御座ります。
 
-<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>わんでし座 - 織り紡ぐ巻物</title>
+  <title>わんでし座</title>
   <style>
     body {
       margin: 0;
@@ -31,15 +31,19 @@
 </head>
 <body>
   <div class="content">
-    <h1>メインコンテンツ</h1>
-    <p>ここにゲームの説明とか文章を書くんだ。長くてもスクロールされるよ。</p>
+    <h1>サイトマップ</h1>
+    <p>フリーゲーム
+    ドット絵素材（16px）
+    初心者向けウディタ講座</p>
   </div>
 
   <div class="sidebar">
-    <h2>制作メンバー</h2>
+    <h2>構成員</h2>
     <ul>
-      <li>1dL - システム</li>
-      <li>織色綴 - シナリオ</li>
+      <li>1dL
+        システム</li>
+      <li>織色綴
+        シナリオ</li>
     </ul>
     <h2>リンク</h2>
     <p><a href="about.html">制作所について</a></p>
