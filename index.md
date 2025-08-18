@@ -2,7 +2,7 @@
 layout: default
 title: わんでし座
 ---
-<link rel="stylesheet" href="/game_woven-scroll/assets/css/custom.css">
+<link rel="stylesheet" href="assets/css/custom.css">
 <br>
 おいでませ、此方「わんでし座」  
 フリーゲームの製作所にて御座ります。
