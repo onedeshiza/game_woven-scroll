@@ -18,7 +18,7 @@ title: わんでし座
 
   <!-- 右カラム（サイドバー） -->
   <div style="flex:1; padding:20px; background:#f4f4f4; border-left:2px solid #ccc;">
-    <h2>サイトマップ</h2>
+    <h2>御案内</h2>
     <p>フリーゲーム</p>
     <p>ドット絵素材（16px）</p>
     <p>初心者向けウディタ講座</p>
