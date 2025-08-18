@@ -6,6 +6,8 @@
 }
 .custom-header img {
   max-height: 80px;
+}
+.custom-header img {
   background: none !important;
   border: none !important;
   padding: 0 !important;
