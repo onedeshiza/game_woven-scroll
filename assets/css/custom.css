@@ -6,15 +6,20 @@
 }
 .custom-header img {
   max-height: 80px;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
 }
-/* すべての画像の余計な枠・背景を消す */
+
+/* Slateのデフォルトの黒帯ヘッダーを消す */
+header {
+  display: none !important;
+}
+
+/* 画像全般の余計な枠や影を消す（必要なら） */
 img {
   background: none !important;
   border: none !important;
   box-shadow: none !important;
   padding: 0 !important;
-}
-/* Slateの黒帯ヘッダーを消す */
-header {
-  display: none !important;
 }
