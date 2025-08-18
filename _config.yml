@@ -4,3 +4,4 @@ theme: jekyll-theme-slate
 include:
   - assets/css
 lang: ja
+show_github_link: false
