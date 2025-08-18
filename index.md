@@ -2,8 +2,9 @@
 layout: default
 title: わんでし座
 ---
-
+<div style="background: red; padding: 10px;">
 ![わんでし座ロゴ](asset/img/1dLza_b1.png)
+</div>
 <br>
 おいでませ、此方「わんでし座」  
 フリーゲームの製作所にて御座ります。
