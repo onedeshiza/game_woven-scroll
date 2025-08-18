@@ -9,3 +9,5 @@ theme: jekyll-theme-slate
 include:
   - assets/css
 lang: ja
+plugins:
+  - jekyll-include-cache
