@@ -1,6 +1,3 @@
----
-layout: default
----
 <link rel="stylesheet" href="assets/css/custom.css">
 <br>
 おいでませ、此方「わんでし座」  
