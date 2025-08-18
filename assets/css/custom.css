@@ -6,4 +6,7 @@
 }
 .custom-header img {
   max-height: 80px;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
 }
