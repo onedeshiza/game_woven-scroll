@@ -1,14 +1,9 @@
----
-layout: default
-title: わんでし座
----
-<link rel="stylesheet" href="asset/css/custom.css">
 title: わんでし座
 markdown: kramdown
 theme: jekyll-theme-slate
+lang: ja
 include:
   - asset/css
-lang: ja
 plugins:
   - jekyll-include-cache
 show_downloads: false
