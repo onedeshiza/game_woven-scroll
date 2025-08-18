@@ -8,8 +8,6 @@ title: わんでし座
 <br>
 おいでませ、此方「わんでし座」  
 フリーゲームの製作所にて御座ります。
-<br>
-<br>
 <div style="display:flex;">
   <!-- 左カラム（本文） -->
   <div style="flex:3; padding:20px;">
