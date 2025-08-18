@@ -1,3 +1,3 @@
 # テストページ
 
-<img src="assets/img/logo.png" alt="わんでし座ロゴ" width="200">
+![わんでし座ロゴ](asset/img/1dLza_w1.png)
