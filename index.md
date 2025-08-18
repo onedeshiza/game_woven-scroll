@@ -1,4 +1,4 @@
-![わんでし座ロゴ](/game_woven-scroll/assets/img/1dLza_b1.png)
+![わんでし座ロゴ](assets/img/1dLza_b1.png)
 
 おいでませ、此方「わんでし座」  
 フリーゲームの製作所にて御座ります。
