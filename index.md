@@ -10,7 +10,7 @@ title: わんでし座
 
 <div style="display:flex;">
   <div style="flex:3; padding:20px;">
-    <h1>サイトマップ</h1>
+    <h2>サイトマップ</h2>
     <p>フリーゲーム</p>
     <p>ドット絵素材（16px）</p>
     <p>初心者向けウディタ講座</p>
