@@ -3,7 +3,7 @@ layout: default
 title: わんでし座
 ---
 <div style="background: black; padding: 10px;">
-![わんでし座ロゴ](asset/img/1dLza_w1.png)
+  ![わんでし座ロゴ](asset/img/1dLza_w1.png)
 </div>
 <br>
 おいでませ、此方「わんでし座」  
