@@ -1,6 +1,6 @@
 title: わんでし座
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 include:
   - assets/css
 lang: ja
