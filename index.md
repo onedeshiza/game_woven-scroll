@@ -1,6 +1,5 @@
 ---
 layout: default
-title: わんでし座
 ---
 <link rel="stylesheet" href="assets/css/custom.css">
 <br>
