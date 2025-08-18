@@ -7,8 +7,10 @@
 .custom-header img {
   max-height: 80px;
 }
-.custom-header img {
+/* すべての画像の余計な枠・背景を消す */
+img {
   background: none !important;
   border: none !important;
+  box-shadow: none !important;
   padding: 0 !important;
 }
