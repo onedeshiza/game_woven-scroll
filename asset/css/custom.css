@@ -1,14 +1,11 @@
 a.github-link, .github-corner {
   display: none !important;
 }
-/* ヘッダー全体の帯 */
 .site-header {
   background: black;
   padding: 10px 0;
-  text-align: center; /* ロゴを中央寄せ */
+  text-align: center;
 }
-
-/* ヘッダー内のロゴ */
 .site-header img {
-  max-height: 80px; /* ロゴの高さ（お好みで調整） */
+  max-height: 80px;
 }
