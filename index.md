@@ -5,7 +5,6 @@ title: わんでし座
 
 ![わんでし座ロゴ](asset/img/1dLza_b1.png)
 <br>
-<br>
 おいでませ、此方「わんでし座」  
 フリーゲームの製作所にて御座ります。
 <div style="display:flex;">
