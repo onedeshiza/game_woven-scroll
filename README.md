@@ -1,1 +1,1 @@
-![わんでし座ロゴ](/game_woven-scroll/asset/img/1dL座_名入り白.png)
+![わんでし座ロゴ](asset/img/1dLza_w1.png)
