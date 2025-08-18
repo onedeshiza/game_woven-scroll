@@ -1,17 +1,22 @@
-![わんでし座ロゴ](assets/img/1dLza_b1.png)
+---
+layout: default
+title: わんでし座
+---
+
+![わんでし座ロゴ](asset/img/1dLza_b1.png)
 
 おいでませ、此方「わんでし座」  
 フリーゲームの製作所にて御座ります。
 
-<div class="container">
-  <div class="content">
+<div style="display:flex;">
+  <div style="flex:3; padding:20px;">
     <h1>サイトマップ</h1>
     <p>フリーゲーム</p>
     <p>ドット絵素材（16px）</p>
     <p>初心者向けウディタ講座</p>
   </div>
 
-  <div class="sidebar">
+  <div style="flex:1; padding:20px; background:#f4f4f4; border-left:2px solid #ccc;">
     <h2>構成員</h2>
     <ul>
       <li>1dL（システム）</li>
