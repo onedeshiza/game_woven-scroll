@@ -20,16 +20,16 @@ title: わんでし座
   <div style="flex:1; padding:20px; background:#f4f4f4; border-left:2px solid #ccc;">
     <h2>御案内</h2>
     <p>フリーゲーム</p>
-    <p>ドット絵素材（16px）</p>
-    <p>初心者向けウディタ講座</p>
+    <p>ドット絵素材</p>
+    <p>ウディタ講座</p>
 
-    <h2>構成員</h2>
+ <h2>構成員</h2>
     <ul>
       <li>1dL（システム）</li>
       <li>織色綴（シナリオ）</li>
     </ul>
 
-    <h2>リンク</h2>
+<h2>リンク</h2>
     <p><a href="about.html">制作所について</a></p>
   </div>
 </div>
