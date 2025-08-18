@@ -13,7 +13,7 @@ title: わんでし座
 <div style="display:flex;">
   <!-- 左カラム（本文） -->
   <div style="flex:3; padding:20px;">
-    <h1>端書き～ サイトの御案内 ～</h1>  
+    <h1>端書き</h1>  
     <li>フリーゲーム</li>
     <p>現在製作中です。しばしお待ちください。</p>
     <li>ドット絵素材</li>
