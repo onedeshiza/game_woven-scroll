@@ -1,11 +1,9 @@
-a.github-link, .github-corner {
-  display: none !important;
-}
-.site-header {
+/* ヘッダー上に黒帯とロゴを出す */
+.custom-header {
   background: black;
-  padding: 10px 0;
   text-align: center;
+  padding: 10px 0;
 }
-.site-header img {
+.custom-header img {
   max-height: 80px;
 }
