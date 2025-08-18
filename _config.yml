@@ -7,7 +7,10 @@ title: わんでし座
 markdown: kramdown
 theme: jekyll-theme-slate
 include:
-  - assets/css
+  - asset/css
 lang: ja
 plugins:
   - jekyll-include-cache
+show_downloads: false
+github:
+  is_project_page: false
