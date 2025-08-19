@@ -1,3 +1,6 @@
+---
+layout: default
+---
 markdown: kramdown
 theme: jekyll-theme-slate
 lang: ja
