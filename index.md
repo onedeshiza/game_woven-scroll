@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <link rel="stylesheet" href="assets/css/custom.css">
 おいでませ、此方「わんでし座」  
 フリーゲームの製作所にて御座ります。
