@@ -1,6 +1,8 @@
----
-layout: default
----
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 markdown: kramdown
 theme: jekyll-theme-slate
 lang: ja
