@@ -30,13 +30,13 @@ img {
 
 .content {
   flex: 3; /* メイン幅 */
-  padding: 50px;
+  padding: 1000px;
 }
 
 .sidebar {
   flex: 1; /* サイドバー幅 */
   background: #f9f9f9;
-  padding: 50px;
+  padding: 100px;
   border-left: 2px solid #ddd;
 }
 .sidebar h2 {
