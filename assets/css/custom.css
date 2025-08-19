@@ -29,14 +29,14 @@ img {
 }
 
 .content {
-  flex: 3; /* メイン幅 */
-  padding: 1000px;
+  flex: 5; /* メイン幅 */
+  padding: 20px;
 }
 
 .sidebar {
   flex: 1; /* サイドバー幅 */
   background: #f9f9f9;
-  padding: 100px;
+  padding: 15px;
   border-left: 2px solid #ddd;
 }
 .sidebar h2 {
