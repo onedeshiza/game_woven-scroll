@@ -26,7 +26,6 @@ img {
 
 .container {
   display: flex;
-  border-left: 2px solid #ddd;
 }
 
 .content {
@@ -39,6 +38,7 @@ img {
   flex: 1; /* サイドバー幅 */
   background: #f9f9f9;
   padding: 20px;
+  border-left: 2px solid #ddd;
 }
 .sidebar h2 {
   font-size: 1.2em;
