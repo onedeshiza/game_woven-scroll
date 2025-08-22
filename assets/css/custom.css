@@ -36,7 +36,7 @@ img {
 
 .sidebar {
   flex: 1; /* サイドバー幅 */
-  background: #f8f8f8;
+  background: gray
   padding: 15px;
   border-left: 2px
 }
