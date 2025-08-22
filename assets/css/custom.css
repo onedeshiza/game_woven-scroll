@@ -32,14 +32,14 @@ img {
   flex: 4; /* メイン幅 */
   padding: 20px;
   margin-top: 1em;
+  border-right: 2px solid #ddd;
 }
 
 .sidebar {
   flex: 1; /* サイドバー幅 */
   background: #f9f9f9;
-  margin: 15px;
-  padding: 0px;
-  border-left: 2px solid #ddd;
+  margin: 0px;
+  padding: 15px;
 }
 .sidebar h2 {
   font-size: 1.2em;
