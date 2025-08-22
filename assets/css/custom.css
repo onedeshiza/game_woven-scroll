@@ -1,11 +1,11 @@
 /* ヘッダー上に黒帯とロゴを出す */
 .custom-header {
-  background: black; !important;
-  text-align: center; !important;
-  padding: 10px 0; !important;
+  background: black;
+  text-align: center;
+  padding: 10px 0;
 }
 .custom-header img {
-  max-height: 80px; !important;
+  max-height: 80px;
   background: none !important;
   border: none !important;
   padding: 0 !important;
@@ -25,29 +25,29 @@ img {
 }
 
 .container {
-  display: flex; !important;
+  display: flex;
 }
 
 .content {
-  flex: 4; /* メイン幅 */!important
-  padding: 20px;!important
+  flex: 4; /* メイン幅 */
+  padding: 20px;
 }
 
 .sidebar {
-  flex: 1; /* サイドバー幅 */!important
-  background: #f9f9f9; !important;
-  padding: 20px;!important
-  border-left: 2px solid #ddd; !important;
+  flex: 1; /* サイドバー幅 */
+  background: #f9f9f9;
+  padding: 20px;
+  border-left: 2px solid #ddd;
 }
 .sidebar h2 {
-  font-size: 1.2em; !important;
-  margin-top: 1em; !important;
-  padding-bottom: 0.5em; !important;
+  font-size: 1.2em;
+  margin-top: 1em;
+  padding-bottom: 0.5em;
 }
 .sidebar ul {
-  list-style: none; !important;
-  padding: 0; !important;
+  list-style: none;
+  padding: 0;
 }
 .sidebar ul li {
-  margin: 0.5em 0; !important;
+  margin: 0.5em 0;
 }
