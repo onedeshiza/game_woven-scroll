@@ -39,7 +39,7 @@ img {
   background: #f9f9f9;
   padding: 15px;
   border-left: 2px solid #ddd;
-  border-padding-left: none;
+  padding-left: none;
 }
 .sidebar h2 {
   font-size: 1.2em;
