@@ -46,6 +46,7 @@ img {
   padding-bottom: 0.5em;
 }
 .sidebar ul {
+  list-style: none;
   padding: 0;
 }
 .sidebar ul li {
