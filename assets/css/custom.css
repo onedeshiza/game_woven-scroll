@@ -30,14 +30,14 @@ img {
 
 .content {
   flex: 4; /* メイン幅 */
-  padding: 0px;
+  padding: 20px;
   margin-top: 1em;
 }
 
 .sidebar {
   flex: 1; /* サイドバー幅 */
   background: #f9f9f9;
-  padding: 20px;
+  padding: 0px;
   border-left: 2px solid #ddd;
 }
 .sidebar h2 {
