@@ -30,7 +30,7 @@ img {
 
 .content {
   flex: 4; /* メイン幅 */
-  padding: 20px;
+  padding: 0px;
   margin-top: 1em;
 }
 
