@@ -31,7 +31,7 @@ img {
 .content {
   flex: 4; /* メイン幅 */
   padding: 20px;
-  margin-top: 5em;
+  margin-top: 1em;
 }
 
 .sidebar {
