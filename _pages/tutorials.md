@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ウディタ講座 一覧"
-permalink: /tutorials/
+permalink: /tutorials
 ---
 
 「WOLF RPGエディター」、通称「ウディタ」にて、コモンイベントを作成するための記事です。  
