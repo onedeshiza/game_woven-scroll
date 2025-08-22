@@ -38,7 +38,7 @@ img {
   flex: 1; /* サイドバー幅 */
   background: #f9f9f9;
   padding: 20px;
-  padding-left: 2px solid #ddd;
+  padding-left: 5px solid #ddd;
   }
 .sidebar h2 {
   font-size: 1.2em;
