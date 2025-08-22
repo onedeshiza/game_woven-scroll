@@ -32,7 +32,6 @@ img {
   flex: 4; /* メイン幅 */
   padding: 20px;
   margin-top: 1em;
-  border-right: 2px solid #ddd;
 }
 
 .sidebar {
@@ -40,6 +39,7 @@ img {
   background: #f9f9f9;
   margin: 0px;
   padding: 15px;
+  border-left: 2px solid #ddd;
 }
 .sidebar h2 {
   font-size: 1.2em;
