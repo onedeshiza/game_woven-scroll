@@ -4,7 +4,9 @@ title: "ウディタ講座一覧"
 permalink: /pages/tutorials/
 ---
 
-## ウディタ講座一覧  
+<p><h2>ウディタ講座一覧</h2></p>
+
+<br>
 
 <ul>
   {% for post in site.categories.tutorials %}
