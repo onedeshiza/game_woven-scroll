@@ -8,6 +8,6 @@ permalink: /pages/dot-assets/
 完全自作素材、他者様の改変素材等があります。  
 利用規約を御一読の上、DL・御利用ください。  
   
-### <a href="{{ site.baseurl }}/pages/tLICENSE/">御利用規約</a>
+### <a href="{{ site.baseurl }}/pages/LICENSE/">御利用規約</a>
 
 <br>
