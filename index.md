@@ -8,7 +8,7 @@
     鋭意製作中です。暫しお待ちください。</p>
     <p><li>ドット絵素材</li>
     只今準備中に御座います。</p>
-    <p><li><a href="{{ 'tutorials/index.md' | relative_url }}">ウディタ講座</a></li>
+    <p><li>[ウディタ講座](_pages/tutorials.md)</li>
     完全初心者に向け、簡単なコモンイベントの製作方法を紹介しております。</p>
     <br>
     <h2>お知らせ</h2>
