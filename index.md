@@ -4,7 +4,7 @@
 
   <div>
     <h2>端書き</h2>  
-    <p><li><a href="https://onedeshiza.github.io/game_woven-scroll/blob/f31fcf789350ffcc8d018e623d1881d7d6f6ea9a/pages/games.md">フリーゲーム紹介</a></li>
+    <p><li>[フリーゲーム紹介]({{ site.baseurl }}pages/games.md)</li>
     鋭意製作中です。暫しお待ちください。</p>
     <p><li><a href="https://onedeshiza.github.io/game_woven-scroll/blob/d8dbe3262d2951e1842ad35b7d2826f100dc9127/pages/dot-assets.md">ドット絵素材</a></li>
     只今準備中に御座います。</p>
