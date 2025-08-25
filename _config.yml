@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-include:
-  - _pages
+url: "https://onedeshiza.github.io"
+baseurl: "/game_woven-scroll"
 defaults:
   - scope:
       path: ""
