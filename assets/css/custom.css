@@ -16,11 +16,6 @@ header {
   display: none !important;
 }
 
-/* Slateのデフォルトのフッターを消す */
-.footer, .site-footer {
-  display: none !important;
-}
-
 
 /* 画像全般の余計な枠や影を消す（必要なら） */
 img {
