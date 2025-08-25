@@ -8,6 +8,6 @@ permalink: /pages/tutorials/
 
 <ul>
   {% for post in site.categories.tutorials %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
