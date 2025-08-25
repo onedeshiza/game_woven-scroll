@@ -8,7 +8,7 @@ permalink: /pages/tutorials/
 
 <br>
 
-完全初心者に向け、簡単なコモンイベントの製作方法を紹介しております。
+完全初心者に向け、簡単なコモンイベントの製作方法を紹介しております。  
 
 <ul>
   {% for post in site.categories.tutorials %}
