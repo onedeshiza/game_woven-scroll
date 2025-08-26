@@ -4,7 +4,7 @@ title: "フリーゲーム一覧"
 permalink: /pages/games/
 ---
 
-<p><h2>フリーゲーム一覧</h2></p>
+<p><h1>フリーゲーム一覧</h1></p>
 
 <br>
 
