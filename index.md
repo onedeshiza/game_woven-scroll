@@ -1,8 +1,4 @@
----
-title: わんでし座
-description: フリーゲーム製作所
-layout: default
----
+
 
 <link rel="stylesheet" href="assets/css/custom.css">
 おいでませ、此方「わんでし座」  
