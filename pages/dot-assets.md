@@ -4,7 +4,7 @@ title: "ドット絵素材一覧"
 permalink: /pages/dot-assets/
 ---
 
-<p><h2>ドット絵素材一覧</h2></p>
+<p><h1>ドット絵素材一覧</h1></p>
 
 <br>
 
