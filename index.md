@@ -1,5 +1,6 @@
 ---
 title: わんでし座
+description: フリーゲーム製作所
 layout: default
 ---
 
