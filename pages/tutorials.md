@@ -4,7 +4,7 @@ title: "ウディタ講座一覧"
 permalink: /pages/tutorials/
 ---
 
-<p><h2>ウディタ講座一覧</h2></p>
+<p><h1>ウディタ講座一覧</h1></p>
 
 <br>
 
