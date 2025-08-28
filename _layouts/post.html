@@ -24,7 +24,14 @@
     
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="container outer">
-      <section id="main_content" class="content inner">
+      <section id="main_content" class="content inner" style="position: relative;">
+        
+        <!-- 広告（右上固定表示） -->
+        <div class="ad-box" style="position: absolute; top: 0; right: 0; width: 200px; height: auto;">
+          <!-- 広告コードをここにペースト -->
+          <p>広告スペース</p>
+        </div>
+        
         {{ content }}
       </section>
     </div>
