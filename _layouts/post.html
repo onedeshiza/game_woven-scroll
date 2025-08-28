@@ -18,6 +18,9 @@
   <body>
     {% include header.html %}
 
+    <!-- 更新日の表示 -->
+<p class="post-date">更新日: {{ page.last_modified_at | default: page.date | date: "%Y.%m.%d" }}</p>
+    
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="container outer">
       <section id="main_content" class="content inner">
