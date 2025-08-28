@@ -28,7 +28,18 @@
         {{ content }}
       </section>
     </div>
-    
+
+    <!-- コメント欄 -->
+<div id="cusdis_thread"
+     data-host="https://cusdis.com"
+     data-app-id="YOUR_APP_ID"
+     data-page-id="{{ page.id }}"
+     data-page-url="{{ page.url | absolute_url }}"
+     data-page-title="{{ page.title }}">
+</div>
+
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
 <!-- FOOTER -->
 <div id="footer_wrap" class="outer">
   <footer class="inner" style="background: black; padding: 10px; color: white;">
