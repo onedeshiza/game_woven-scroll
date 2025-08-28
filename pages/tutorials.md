@@ -9,7 +9,8 @@ permalink: /pages/tutorials/
 <br>
 
 完全初心者に向け、簡単なコモンイベントの製作方法を紹介しております。  
-
+<br>
+<br>
 <ul>
   {% for post in site.categories.tutorials %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
