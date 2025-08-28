@@ -14,10 +14,6 @@ permalink: /pages/dot-assets/
   
 <a href="{{ site.baseurl }}/pages/LICENSE/">御利用規約</a>
 
-<h1>これはh1</h1>
-<h2>これはh2</h2>
-<h3>これはh3</h3>
-
 <br>
 
 <ul>
