@@ -19,32 +19,44 @@
   <!-- 更新日の表示 -->
   <p class="post-date" style="text-align: right;">更新日: {{ page.last_modified_at | default: page.date | date: "%Y.%m.%d" }}</p>
 
-  <!-- MAIN CONTENT -->
-  <div id="main_content_wrap" class="container outer">
-    <section id="main_content" class="content inner">
-      {{ content }}
-    </section>
-    <div class="sidebar">
-      {% include sidebar.html %}
-      {% include ads.html %}
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="container outer">
+      <section id="main_content" class="content inner">
+        {{ content }}
+      </section>
+      <div class="sidebar">
+        {% include sidebar.html %}
+        
+        <!-- 広告欄（サイドバー下部） -->
+        <!-- 広告欄 -->
+      </div>
     </div>
-  </div>
+    
+    <!-- FOOTER -->
+<div id="footer_wrap" class="outer">
+  <footer class="inner" style="background: black; padding: 10px; color: white;">
 
-  <!-- コメント欄 -->
- 
-  <!-- FOOTER -->
-  <div id="footer_wrap" class="outer">
-    <footer class="inner" style="background: black; padding: 10px; color: white;">
-      <nav class="footer-links" style="margin-bottom: 1.5em;">
-        <ul style="list-style: none; display: flex; flex-wrap: wrap; gap: 1em; padding: 0; margin: 0; justify-content: center;">
-          <li><a href="{{ site.baseurl }}/pages/tutorials/" style="color:white;">ウディタ講座</a></li>
-          <li><a href="{{ site.baseurl }}/pages/dot-assets/" style="color:white;">ドット絵素材</a></li>
-          <li><a href="{{ site.baseurl }}/pages/games/" style="color:white;">フリーゲーム</a></li>
-          <li><a href="https://ofuse.me/onedeshiza" style="color:white;">○ 御支援願います ●</a></li>
-        </ul>
-      </nav>
-      <p style="text-align: center; margin: 0;">Copyright © 2025 わんでし座</p>
-    </footer>
-  </div>
+    <!-- コメント欄 -->
+    <!-- コメント欄 -->
+
+    <!-- 広告欄（コメント欄の下、リンク集の上） -->
+    <!-- 広告欄 -->
+
+    <!-- リンク集 -->
+    <nav class="footer-links" style="margin-bottom: 1.5em;">
+      <ul style="list-style: none; display: flex; flex-wrap: wrap; gap: 1em; padding: 0; margin: 0; justify-content: center;">
+        <li><a href="{{ site.baseurl }}/pages/tutorials/" style="color:white;">ウディタ講座</a></li>
+        <li><a href="{{ site.baseurl }}/pages/dot-assets/" style="color:white;">ドット絵素材</a></li>
+        <li><a href="{{ site.baseurl }}/pages/games/" style="color:white;">フリーゲーム</a></li>
+        <li><a href="https://ofuse.me/onedeshiza" style="color:white;">○ 御支援願います ●</a></li>
+      </ul>
+    </nav>
+
+    <!-- 著作権表記 -->
+    <p style="text-align: center; margin: 0;">Copyright © 2025 わんでし座</p>
+
+  </footer>
+</div>
+  
 </body>
 </html>
